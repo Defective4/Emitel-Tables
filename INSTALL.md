@@ -7,7 +7,7 @@
 - Step 3 - Place the script and the `scanfile.dvb` file in the same directory
 - Step 4 - Run the script in a terminal (`./kaffeine_install.sh`) and follow displayed instructions
 - Step 3 - Run caffeine, adjust the settings and run a scan
-### Option 2 - Ręczna instalacja
+### Option 2 - Manual installation
 This option assumes complete replacement of `scanfile.dvb`, replacing built-in frequencies with the polish ones
 - Step 1 - Download the [scanfile.dvb](https://github.com/Defective4/Emitel-Tables/blob/master/Kaffeine/scanfile.dvb) file
 - Step 2 - Swap the original file with the downloaded one.  
