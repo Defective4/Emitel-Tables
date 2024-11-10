@@ -11,10 +11,10 @@
 This option assumes complete replacement of `scanfile.dvb`, replacing built-in frequencies with the polish ones
 - Step 1 - Download the [scanfile.dvb](https://github.com/Defective4/Emitel-Tables/blob/master/Kaffeine/scanfile.dvb) file
 - Step 2 - Swap the original file with the downloaded one.  
-            You can find the original file in `/home/<użytkownik>/.local/share/kaffeine/scanfile.dvb` or `/home/<użytkownik>/.kde/share/apps/kaffeine/scanfile.dvb`
+            You can find the original file in `/home/<user>/.local/share/kaffeine/scanfile.dvb` or `/home/<user>/.kde/share/apps/kaffeine/scanfile.dvb`
 - Step 3 - Run caffeine, adjust the settings and run a scan
 
 ## VLC
-- Step 1 - Find a subdirectory named after a location closes to you in the [VLC](https://github.com/Defective4/Emitel-Tables/tree/master/VLC) directorys
+- Step 1 - Find a subdirectory named after a location closes to you in the [VLC](https://github.com/Defective4/Emitel-Tables/tree/master/VLC) directory
 - Step 2 - Download MUXes you want
 - Step 3 - Open downloaded file(s) in VLC
