@@ -1,7 +1,7 @@
 # Emitel transmitters list  
 Installation instructions: [🇵🇱 PL](INSTALL.pl.md) | [🇬🇧 EN](INSTALL.md)  
   
-*Last updated: 02 Feb 2025*  
+*Last updated: 09 Feb 2025*  
 > This table is updated every Sunday, at 00:00 UTC  
 
 | Location                                    | Multiplex                                   | Frequency (MHz) |
